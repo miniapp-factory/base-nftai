@@ -1,0 +1,80 @@
+
+# 2025-12-23 04:25:53.456450
++Code the following app
++```
++Create a Web3 mini-app on Base Chain that allows users to generate NFTs using Artificial Intelligence from text prompts.
++
++ Required Features:
++
++Simple interface (frontend in React or Next.js)
++
++AI-powered image generation from text (e.g., Stable Diffusion or similar API)
++
++Deployment of an ERC-721 or ERC-1155 smart contract on the Base Chain
++
++Unlimited NFT mint
++
++Automatic charge of US$0.10 in ETH per mint (dynamically converted value)
++
++Payment sent to the contract creator's wallet
++
++Wallet connection (MetaMask or WalletConnect)
++
++Decentralized storage (IPFS or similar) for images and metadata
++
++Technical Requirements:
++
++Solidity for smart contracts
++
++Ethers.js or Viem for blockchain interaction
++
++AI API for image generation
++
++Automatic conversion of USD to ETH using oracle or API
++
++Clean, commented code ready for deployment
++
++Generate smart contract code, frontend example, and  Deployment instructions. I want to deploy to the app database.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-12-23 04:25:53.463917
++Code the following app
++```
++Create a Web3 mini-app on Base Chain that allows users to generate NFTs using Artificial Intelligence from text prompts.
++
++ Required Features:
++
++Simple interface (frontend in React or Next.js)
++
++AI-powered image generation from text (e.g., Stable Diffusion or similar API)
++
++Deployment of an ERC-721 or ERC-1155 smart contract on the Base Chain
++
++Unlimited NFT mint
++
++Automatic charge of US$0.10 in ETH per mint (dynamically converted value)
++
++Payment sent to the contract creator's wallet
++
++Wallet connection (MetaMask or WalletConnect)
++
++Decentralized storage (IPFS or similar) for images and metadata
++
++Technical Requirements:
++
++Solidity for smart contracts
++
++Ethers.js or Viem for blockchain interaction
++
++AI API for image generation
++
++Automatic conversion of USD to ETH using oracle or API
++
++Clean, commented code ready for deployment
++
++Generate smart contract code, frontend example, and  Deployment instructions. I want to deploy to the app database.
++```
++
++Generate an app logo and update the app metadata title and description.
